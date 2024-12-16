@@ -1,7 +1,7 @@
 # Image Manipulation Project
 
 ## Overview
-The Image Manipulation Project provides a command-line interface for manipulating images through various operations such as loading, saving, and transforming images. Users can input commands to perform actions like flipping, brightening, and applying filters to images. The application processes these commands via a controller, supporting both interactive and script-based operations.
+The Image Manipulation Project provides a Graphical and Command-line interface for manipulating images through various operations such as loading, saving, and transforming images. Users can input commands to perform actions like flipping, brightening, and applying filters to images. The application processes these commands via a controller, supporting both interactive and script-based operations.
 
 ## Project Structure
 
